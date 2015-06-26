@@ -16,3 +16,11 @@ This theme uses the general color scheme of the Galea theme (https://github.com/
 
 *Also if you want to edit this, or the base monaco theme you can open this file is vsc and click help, then toggle developer tools*
 
+# JavaScript
+![alt tag](https://raw.githubusercontent.com/MuscularMustache/vsc-theme/master/images/js.png)
+
+# Sass/Scss/Stylus
+![alt tag](https://raw.githubusercontent.com/MuscularMustache/vsc-theme/master/images/sass.png)
+
+# HTML
+![alt tag](https://raw.githubusercontent.com/MuscularMustache/vsc-theme/master/images/html.png)
