@@ -13,5 +13,6 @@ This theme uses the general color scheme of the Galea theme (https://github.com/
 * BAM - all done
 
 *Note 2.0: I will be updating some stuff, like fonts and highlight color preferences as time goes on*
+
 *Also if you want to edit this, or the base monaco theme you can open this file is vsc and click help, then toggle developer tools*
 
