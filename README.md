@@ -22,5 +22,3 @@ This theme uses the general color scheme of the Galea theme (https://github.com/
 # Sass/Scss/Stylus
 ![alt tag](https://raw.githubusercontent.com/MuscularMustache/vsc-theme/master/images/sass.png)
 
-# HTML
-![alt tag](https://raw.githubusercontent.com/MuscularMustache/vsc-theme/master/images/html.png)
